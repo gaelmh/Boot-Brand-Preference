@@ -1,4 +1,4 @@
-# Boot-Brand-Preference
+# Boot Brand Preference
 This project analyzes the "Football Boots" dataset  from Kaggle to understand and predict soccer players' preferred boot brands and identify the key factors influencing their choices.
 It leverages five machine learning models (Decision Trees, Random Forest, Gradient Boosting, Ada Boosting, and Neural Networks), along with other techniques including class balancing and feature selection to explore these relationships.
 
